@@ -1,0 +1,35 @@
+{
+  "id": "8f615f89-848e-4c95-8262-ccc9f92202d3",
+  "name": "VOG PruebasAL",
+  "publisher": "Virtual Office Group C.A",
+  "version": "1.0.0.0",
+  "brief": "Extension for Business Central testing following VOG standards.",
+  "description": "Extension PruebasAL aligned with VOG AL coding standards.",
+  "privacyStatement": "https://www.vog365.com/privacy-policy",
+  "contextSensitiveHelpUrl": "https://www.vog365.com/help",
+  "EULA": "https://www.vog365.com/eula",
+  "help": "https://www.vog365.com/help",
+  "url": "https://www.vog365.com",
+  "logo": "./logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "applicationInsightsConnectionString": "InstrumentationKey=f2223b24-a248-4af6-b9df-e42a7f2b652e;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=fea4ed8f-03bf-421e-8870-29dfb452efb3",
+  "idRanges": [
+    {
+      "from": 50650,
+      "to": 50699
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

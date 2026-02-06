@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="VOG PruebasAL">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3912735793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pruebas Empleado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direccion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 844953801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id Empleado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field Employee Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field First Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apellido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 1187108461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cedula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field National Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Telefono</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3912735793 - Field 3900201624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sueldo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VOG Pruebas Empleado - Field Salary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2750807499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pruebas Empleado Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report VOG Pruebas Empleado Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2750807499 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report VOG Pruebas Empleado Report - Control Options - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

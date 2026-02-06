@@ -1,0 +1,6 @@
+{
+    "name": "VOG PruebasAL",
+    "publisher": "Virtual Office Group C.A",
+    "mandatoryAffixes": [ "VOG" ],
+    "supportedCountries": [ "es"]
+}
